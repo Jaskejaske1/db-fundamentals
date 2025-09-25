@@ -1,0 +1,8 @@
+# Set default text file handling
+* text=auto
+
+# Treat SQL files as text
+*.sql text
+
+# Normalize line endings for Markdown
+*.md text eol=lf

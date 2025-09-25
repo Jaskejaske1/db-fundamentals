@@ -1,0 +1,26 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Folders
+.vs/
+
+# Ignore build output
+[Bb]in/
+[Oo]bj/
+
+# Ignore SQL Server Management Studio temp files
+*.sql~
+
+# Ignore logs and temp
+*.log
+*.tmp
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
