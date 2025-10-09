@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		E030.sql = E030.sql
 		E040.sql = E040.sql
 		E050.sql = E050.sql
+		E060.sql = E060.sql
+		E070.sql = E070.sql
 		E_SCALAIRE_FUNCTIES.sql = E_SCALAIRE_FUNCTIES.sql
 	EndProjectSection
 EndProject
@@ -21,6 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tijdens_theorie", "Tijdens_
 		Rekenen_in_select.sql = Rekenen_in_select.sql
 		Scalar_functions.sql = Scalar_functions.sql
 		String-string_functies.sql = String-string_functies.sql
+		Subqueries.sql = Subqueries.sql
 		Wildcards.sql = Wildcards.sql
 	EndProjectSection
 EndProject
@@ -29,7 +32,7 @@ Global
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{77234AD8-50F2-4780-A132-F5AF794A8C7E}.Default|Default.ActiveCfg = Default
+		{6FBE7EBE-26D7-46C9-9033-B2A1846749F5}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
