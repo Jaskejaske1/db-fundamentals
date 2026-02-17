@@ -150,12 +150,12 @@ use Northwind2019
 --)
 
 
--- 14. Which customers do not have outstanding orders; show their names.
+---- 14. Which customers do not have outstanding orders; show their names.
 
-select c.CompanyName
-from Customers c
-where c.CustomerID not in
-(
-select o.CustomerID
-from Orders o
-)
+--select c.CompanyName
+--from Customers c
+--where c.CustomerID not in
+--(
+--select o.CustomerID
+--from Orders o
+--)
